@@ -54,112 +54,112 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  1)
 //  Noun: Employee
 //  action 1: Performs Task
-Employee.performTask();
+employee.performTask();
 
 //  action 2: Clocks in
-Employee.clockIn();
+employee.clockIn();
 
 //  action 3: Rotates Employee
-Employee.rotate();
+employee.rotate();
 
 //  2)
 //  Noun: Student
 //  action 1: Leaves home and heads to school
-Student.goToSchool();
+student.goToSchool();
 
 //  action 2: Student goes from homework to class
-Student.goToClass();
+student.goToClass();
 
 //  action 3: Student does homework
-Student.doHomework();
+student.doHomework();
 
 //  3) 
 //  Noun: Bus Driver
 //  action 1: Starts the bus
-BusDriver.startBus();
+busDriver.startBus();
 
 //  action 2:Stops at bus stop
-BusDriver.makeStop();
+busDriver.makeStop();
 
 //  action 3: heads to station
-BusDriver.goToStation();
+busDriver.goToStation();
 
 //  4) 
 //  Noun: Doctor
 //  action 1: Performs checkup
-Doctor.performCheckup();
+doctor.performCheckup();
 
 //  action 2: Orders bloodwork
-Doctor.orderBloodwork();
+doctor.orderBloodwork();
 
 //  action 3: Performs surgery
-Doctor.performSurgery();
+doctor.performSurgery();
 
 //  5)
 //  Noun: Elevator
 //  action 1: moves to specified floor
-Elevator.gotoNthFloor();
+elevator.gotoNthFloor();
 
 //  action 2: Stops at floor
-Elevator.stop();
+elevator.stop();
 
 //  action 3: opens door
-Elevator.open();
+elevator.open();
 
 //  6)
 //  Noun: Fireman
 //  action 1: puts on fire equipment
-Fireman.getSuitedUp();
+fireman.getSuitedUp();
 
 //  action 2: slides down firehouse pole
-Fireman.slideDownPole();
+fireman.slideDownPole();
 
 //  action 3: outs out fire
-Fireman.putOutFire();
+fireman.putOutFire();
 
 //  7)
 //  Noun: ConvenienceClerk
 //  action 1: Stocks shelves
-ConvenienceClerk.stockShelves();
+convenienceClerk.stockShelves();
 
 //  action 2: rings out customer
-ConvenienceClerk.ringUpCustomer();
+convenienceClerk.ringUpCustomer();
 
 //  action 3: takes down thief
-ConvenienceClerk.takeDownThief();
+convenienceClerk.takeDownThief();
 
 //  8)
 //  Noun: Thief
 //  action 1: puts on mask
-Thief.putOnMask();
+thief.putOnMask();
 
 //  action 2: calls get away driver
-Thief.callDriver();
+thief.callDriver();
 
 //  action 3: robs convenience store
-Thief.robConvenienceStore();
+thief.robConvenienceStore();
 
 //  9)
 //  Noun: Marine
 //  action 1: goes to boot camp
-Marine.goToBootCamp();
+marine.goToBootCamp();
 
 //  action 2: flies jet
-Marine.flyJet();
+marine.flyJet();
 
 //  action 3: salutes captain
-Marine.saluteCaptain();
+marine.saluteCaptain();
 
 //  10)
 //  Noun: Musician
 //  action 1: plays instrument
-Musician.playInstrument()
+musician.playInstrument()
 
 //  action 2: writes song
-Musician.writeSong()
+musician.writeSong()
 
 //  action 3: reads music
-Musician.readMusic()
+musician.readMusic()
 
 
 
