@@ -53,83 +53,113 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 //  1)
 //  Noun: Employee
-//  action 1: Employee.PerformTask()
+//  action 1: Performs Task
+Employee.performTask();
 
-//  action 2: Employee.ClockIn()
+//  action 2: Clocks in
+Employee.clockIn();
 
-//  action 3: Employee.Rotate()
+//  action 3: Rotates Employee
+Employee.rotate();
 
 //  2)
 //  Noun: Student
-//  action 1: Student.GoToSchool()
+//  action 1: Leaves home and heads to school
+Student.goToSchool();
 
-//  action 2: Student.GoToClass()
+//  action 2: Student goes from homework to class
+Student.goToClass();
 
-//  action 3: Student.DoHomework()
+//  action 3: Student does homework
+Student.doHomework();
 
-//  3) BusDriver
-//  Noun:
-//  action 1: BusDriver.StartBus()
+//  3) 
+//  Noun: Bus Driver
+//  action 1: Starts the bus
+BusDriver.startBus();
 
-//  action 2: BusDriver.MakeStop()
+//  action 2:Stops at bus stop
+BusDriver.makeStop();
 
-//  action 3: BusDriver.GoToStation()
+//  action 3: heads to station
+BusDriver.goToStation();
 
-//  4) Doctor
-//  Noun:
-//  action 1: Doctor.PerformCheckup()
+//  4) 
+//  Noun: Doctor
+//  action 1: Performs checkup
+Doctor.performCheckup();
 
-//  action 2: Doctor.OrderBloodwork()
+//  action 2: Orders bloodwork
+Doctor.orderBloodwork();
 
-//  action 3: Doctor.PerformSurgery()
+//  action 3: Performs surgery
+Doctor.performSurgery();
 
 //  5)
 //  Noun: Elevator
-//  action 1: Elevator.GotoNthFloor()
+//  action 1: moves to specified floor
+Elevator.gotoNthFloor();
 
-//  action 2: Elevator.Stop()
+//  action 2: Stops at floor
+Elevator.stop();
 
-//  action 3: Elevator.Open()
+//  action 3: opens door
+Elevator.open();
 
 //  6)
 //  Noun: Fireman
-//  action 1: Fireman.GetSuitedUp()
+//  action 1: puts on fire equipment
+Fireman.getSuitedUp();
 
-//  action 2: Fireman.SlideDownPole()
+//  action 2: slides down firehouse pole
+Fireman.slideDownPole();
 
-//  action 3: Fireman.PutOutFire()
+//  action 3: outs out fire
+Fireman.putOutFire();
 
 //  7)
 //  Noun: ConvenienceClerk
-//  action 1: ConvenienceClerk.StockShelves()
+//  action 1: Stocks shelves
+ConvenienceClerk.stockShelves();
 
-//  action 2: ConvenienceClerk.RingUpCustomer()
+//  action 2: rings out customer
+ConvenienceClerk.ringUpCustomer();
 
-//  action 3: ConvenienceClerk.TakeDownThief()
+//  action 3: takes down thief
+ConvenienceClerk.takeDownThief();
 
 //  8)
 //  Noun: Thief
-//  action 1: Thief.PutOnMask()
+//  action 1: puts on mask
+Thief.putOnMask();
 
-//  action 2: Thief.CallDriver()
+//  action 2: calls get away driver
+Thief.callDriver();
 
-//  action 3: Thief.RobConvenienceStore()
+//  action 3: robs convenience store
+Thief.robConvenienceStore();
 
 //  9)
 //  Noun: Marine
-//  action 1: Marine.GoToBootCamp()
+//  action 1: goes to boot camp
+Marine.goToBootCamp();
 
-//  action 2: Marine.FlyJet()
+//  action 2: flies jet
+Marine.flyJet();
 
-//  action 3: Marine.SaluteCaptain()
+//  action 3: salutes captain
+Marine.saluteCaptain();
 
 //  10)
 //  Noun: Musician
-//  action 1: Musician.PlayInstrument()
+//  action 1: plays instrument
+Musician.playInstrument()
 
-//  action 2: Musician.WriteSong()
+//  action 2: writes song
+Musician.writeSong()
 
-//  action 3: Musician.ReadMusic()
+//  action 3: reads music
+Musician.readMusic()
 
 
 
