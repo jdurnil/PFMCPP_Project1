@@ -129,15 +129,15 @@ convenienceClerk.ringUpCustomer();
 convenienceClerk.takeDownThief();
 
 //  8)
-//  Noun: Thief
-//  action 1: puts on mask
-thief.putOnMask();
+//  Noun: Big wave surfer
+//  action 1: paddles out
+bigWaveSurfer.paddleOut();
 
-//  action 2: calls get away driver
-thief.callDriver();
+//  action 2: catches wave
+bigWaveSurfer.catchWave();
 
-//  action 3: robs convenience store
-thief.robConvenienceStore();
+//  action 3: waxes board
+bigWavesurfer.waxBoard();
 
 //  9)
 //  Noun: Marine
