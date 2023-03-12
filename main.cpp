@@ -52,84 +52,114 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: Employee
+//  action 1: Performs Task
+employee.performTask();
 
-//  action 2:
+//  action 2: Clocks in
+employee.clockIn();
 
-//  action 3:
+//  action 3: Rotates Employee
+employee.rotate();
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: Student
+//  action 1: Leaves home and heads to school
+student.goToSchool();
 
-//  action 2:
+//  action 2: Student goes from homework to class
+student.goToClass();
 
-//  action 3:
+//  action 3: Student does homework
+student.doHomework();
 
-//  3)
-//  Noun:
-//  action 1:
+//  3) 
+//  Noun: Bus Driver
+//  action 1: Starts the bus
+busDriver.startBus();
 
-//  action 2:
+//  action 2:Stops at bus stop
+busDriver.makeStop();
 
-//  action 3:
+//  action 3: heads to station
+busDriver.goToStation();
 
-//  4)
-//  Noun:
-//  action 1:
+//  4) 
+//  Noun: Doctor
+//  action 1: Performs checkup
+doctor.performCheckup();
 
-//  action 2:
+//  action 2: Orders bloodwork
+doctor.orderBloodwork();
 
-//  action 3:
+//  action 3: Performs surgery
+doctor.performSurgery();
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: Elevator
+//  action 1: moves to specified floor
+elevator.gotoNthFloor();
 
-//  action 2:
+//  action 2: Stops at floor
+elevator.stop();
 
-//  action 3:
+//  action 3: opens door
+elevator.open();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: Fireman
+//  action 1: puts on fire equipment
+fireman.getSuitedUp();
 
-//  action 2:
+//  action 2: slides down firehouse pole
+fireman.slideDownPole();
 
-//  action 3:
+//  action 3: outs out fire
+fireman.putOutFire();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: ConvenienceClerk
+//  action 1: Stocks shelves
+convenienceClerk.stockShelves();
 
-//  action 2:
+//  action 2: rings out customer
+convenienceClerk.ringUpCustomer();
 
-//  action 3:
+//  action 3: takes down thief
+convenienceClerk.takeDownThief();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Big wave surfer
+//  action 1: paddles out
+bigWaveSurfer.paddleOut();
 
-//  action 2:
+//  action 2: catches wave
+bigWaveSurfer.catchWave();
 
-//  action 3:
+//  action 3: waxes board
+bigWavesurfer.waxBoard();
 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: Marine
+//  action 1: goes to boot camp
+marine.goToBootCamp();
 
-//  action 2:
+//  action 2: flies jet
+marine.flyJet();
 
-//  action 3:
+//  action 3: salutes captain
+marine.saluteCaptain();
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: Musician
+//  action 1: plays instrument
+musician.playInstrument()
 
-//  action 2:
+//  action 2: writes song
+musician.writeSong()
 
-//  action 3:
+//  action 3: reads music
+musician.readMusic()
 
 
 
